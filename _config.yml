@@ -1,0 +1,49 @@
+# Site settings
+title: Jalapenio Unconference
+description: An unconference by JConf Mexico focusing on Java and modern Java technologies.
+url: "https://jalapenio-unconf.org" # Set your actual URL
+
+# Build settings
+markdown: kramdown
+theme: minima # Change this to the name of your desired theme or customize further
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+nav:
+  - text: Home
+    url: /
+
+# Permalinks
+permalink: /:title/
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _config.yml
+  - README.md
+
+# Development settings
+baseurl: "" # Set to your base URL if your site is hosted in a subdirectory
+
+# SEO settings
+seo:
+  name: Jalapenio Unconference
+  description: An unconference by JConf Mexico focusing on Java and modern Java technologies.
+  social:
+    twitter: "@JConfMexico"
+    # Add other social media profiles if needed
+
+# Sass settings
+sass:
+  style: :compressed
+
+# Jekyll Feed plugin settings
+feed:
+  posts_path: /feed.xml
+  limit: 10
+  output: true
