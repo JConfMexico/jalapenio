@@ -1,5 +1,5 @@
 ---
-title: Jalapenio Unconference by JConfMexico
+title: Jalapenio 
 layout: home
 permalink: index.html
 ---
