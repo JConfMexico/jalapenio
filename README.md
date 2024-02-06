@@ -1,4 +1,7 @@
-# Jalapenio Unconference by JConf Mexico
+---
+title: Jalapenio Unconference by JConfMexico
+layout: home
+---
 
 Welcome to **Jalapenio Unconference**, an event organized by [JConf Mexico](https://github.com/JConfMexico) focusing on JVM and modern JVM technologies.
 

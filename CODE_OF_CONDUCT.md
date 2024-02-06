@@ -1,5 +1,6 @@
 ---
-permalink: Code of Conduct
+title: Code of Conduct
+layout: page
 ---
 
 # Jalapenio Unconference Code of Conduct
