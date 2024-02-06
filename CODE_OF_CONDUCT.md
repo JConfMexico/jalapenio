@@ -1,19 +1,16 @@
 ---
-
+permalink: Code of Conduct
 ---
 
 # Jalapenio Unconference Code of Conduct
 
-Jalapenio Unconference is dedicated to providing a safe, inclusive, and respectful environment for all participants. We expect everyone involved in the event, including attendees, speakers, sponsors, and organizers, to adhere to this Code of Conduct.
+Jalapenio Unconference is dedicated to providing a safe, inclusive, and respectful environment for all participants. We expect everyone involved in the event, including attendees, speakers, and organizers, to adhere to this Code of Conduct.
 
 ## Expected Behavior
 
 - **Respect:** Treat all participants with kindness, respect, and consideration, valuing a diversity of views and opinions.
-  
-- **Inclusivity:** Strive to create a welcoming environment that is inclusive and free from discrimination based on race, gender, sexual orientation, disability, age, or any other characteristic.
-
+- **Inclusivity:** Strive to create a welcoming environment that is inclusive and free from discrimination based on race, gender, sexual orientation, age, or any other characteristic.
 - **Collaboration:** Foster collaboration and cooperation among participants, promoting a positive and constructive atmosphere.
-
 - **Professionalism:** Conduct yourself in a professional manner and refrain from any form of harassment, intimidation, or disruptive behavior.
 
 ## Unacceptable Behavior
@@ -21,11 +18,8 @@ Jalapenio Unconference is dedicated to providing a safe, inclusive, and respectf
 The following behaviors are considered unacceptable and will not be tolerated:
 
 - **Harassment:** Any form of harassment, including but not limited to verbal, physical, or visual harassment.
-
 - **Discrimination:** Discrimination against any individual or group based on race, gender, sexual orientation, disability, age, or any other characteristic.
-
 - **Disruption:** Intentional disruption of talks, workshops, or any other event-related activities.
-
 - **Unauthorized Promotion:** Unauthorized promotion of products, services, or events not affiliated with Jalapenio Unconference.
 
 ## Reporting Violations
@@ -33,8 +27,6 @@ The following behaviors are considered unacceptable and will not be tolerated:
 If you witness or experience any behavior that violates this Code of Conduct, please report it to the event organizers immediately. You can do so by:
 
 - Finding a staff member or organizer in person.
-- Contacting the organizers via email at [contact@jalapenio-unconf.org](mailto:contact@jalapenio-unconf.org).
-- Sending a direct message to the official event Slack channel.
 
 ## Consequences
 
