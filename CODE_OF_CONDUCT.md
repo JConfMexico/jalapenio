@@ -3,9 +3,9 @@ title: Code of Conduct
 layout: page
 ---
 
-# Jalapenio Unconference Code of Conduct
+# Jalapeño Unconference Code of Conduct
 
-Jalapenio Unconference is dedicated to providing a safe, inclusive, and respectful environment for all participants. We expect everyone involved in the event, including attendees, speakers, and organizers, to adhere to this Code of Conduct.
+Jalapeño Unconference is dedicated to providing a safe, inclusive, and respectful environment for all participants. We expect everyone involved in the event, including attendees, speakers, and organizers, to adhere to this Code of Conduct.
 
 ## Expected Behavior
 
@@ -21,7 +21,7 @@ The following behaviors are considered unacceptable and will not be tolerated:
 - **Harassment:** Any form of harassment, including but not limited to verbal, physical, or visual harassment.
 - **Discrimination:** Discrimination against any individual or group based on race, gender, sexual orientation, disability, age, or any other characteristic.
 - **Disruption:** Intentional disruption of talks, workshops, or any other event-related activities.
-- **Unauthorized Promotion:** Unauthorized promotion of products, services, or events not affiliated with Jalapenio Unconference.
+- **Unauthorized Promotion:** Unauthorized promotion of products, services, or events not affiliated with Jalapeño Unconference.
 
 ## Reporting Violations
 
@@ -41,8 +41,8 @@ Organizers will prioritize the safety and well-being of all participants, and an
 
 ## Acknowledgment
 
-By participating in Jalapenio Unconference, you agree to adhere to this Code of Conduct. Organizers will enforce this Code of Conduct throughout the event.
+By participating in Jalapeño Unconference, you agree to adhere to this Code of Conduct. Organizers will enforce this Code of Conduct throughout the event.
 
-We thank all participants for helping us create a positive and inclusive environment at Jalapenio Unconference.
+We thank all participants for helping us create a positive and inclusive environment at Jalapeño Unconference.
 
 **Note:** This Code of Conduct is adapted from the [Citizen Code of Conduct](http://citizencodeofconduct.org/), an open-source project providing guidelines for community and event organizers to create welcoming and inclusive spaces.

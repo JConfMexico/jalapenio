@@ -1,12 +1,12 @@
-title: Jalapenio Unconference
+title: Jalapeño Unconference
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   An unconference by JConfMexico focusing on JVM and modern JVM technologies.
 additional_info: >-
   September 14 & 15, 2024
-# baseurl: "jalapenio" # the subpath of your site, e.g. /blog
+# baseurl: "jalapeño" # the subpath of your site, e.g. /blog
 # url: "https://jconfmexico.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jconfmexico
+twitter_username: JalapenoUnconf
 github_username:  JConfMexico
 social_username: jconfmexico
 

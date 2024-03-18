@@ -1,18 +1,20 @@
 ---
-title: Jalapenio 
+title: Jalapeño 
 layout: home
 permalink: index.html
 ---
 
-# Jalapenio Unconference by JConfMexico
+![Jalapeño Duke](/img/jalapeno-duke.png)
 
-Welcome to **Jalapenio Unconference**, an event organized by [JConf Mexico](https://github.com/JConfMexico) focusing on JVM and modern JVM technologies.
+# Jalapeño Unconference by JConfMexico
+
+Welcome to **Jalapeño Unconference**, an event organized by [JConf Mexico](https://github.com/JConfMexico) focusing on JVM and modern JVM technologies.
 
 This unconference is a unique opportunity for JVM enthusiasts, developers, and experts to come together, share knowledge, and discuss the latest trends in the JVM ecosystem.
 
 ## Event Details
 
-- **Date:** September 14 && 15
+- **Date:** September 14th & 15th
 - **Location:** TBA
 - **Time:** ALL DAY FUN
 
@@ -27,7 +29,6 @@ This unconference is a unique opportunity for JVM enthusiasts, developers, and e
 ## How to Participate
 
 1. **Registration:** 
-2. **Submit a Proposal:** Interested in presenting a talk or workshop? Submit your proposal [here](#)
 
 ## Code of Conduct
 
@@ -35,11 +36,10 @@ We follow a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and incl
 
 ## Stay Connected
 
-- Follow on [Twitter](https://twitter.com/JConfMexico) for live updates and announcements.
+- Follow for live updates and announcements: [@JalapenoUnconf](https://twitter.com/jalapenounconf), [@JConfMexico](https://twitter.com/JConfMexico).
 
 ## Contributing
 
 If you'd like to contribute to the event's organization or have suggestions, please check our [Contribution Guidelines](CONTRIBUTING.md).
 
-
-We look forward to seeing you at Jalapenio Unconference, where JVM enthusiasts unite to explore and celebrate the world of modern JVM technologies!
+We look forward to seeing you at Jalapeño Unconference, where JVM enthusiasts unite to explore and celebrate the world of modern JVM technologies!
