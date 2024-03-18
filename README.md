@@ -4,7 +4,7 @@ layout: home
 permalink: index.html
 ---
 
-![Jalapeño Duke](/img/jalapeno-duke.png)
+![Jalapeño Duke](/img/jalapeno-duke.jpg)
 
 # Jalapeño Unconference by JConfMexico
 
