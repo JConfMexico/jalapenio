@@ -28,7 +28,7 @@ This unconference is a unique opportunity for JVM enthusiasts, developers, and e
 
 ## How to Participate
 
-1. **Registration:** 
+1. **Registration:** Browse to [https://jalapeño.devcommunity.events/event/jalapeno](https://xn--jalapeo-9za.devcommunity.events/event/jalapeno)
 
 ## Code of Conduct
 
