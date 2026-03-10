@@ -14,8 +14,8 @@ This unconference is a unique opportunity for JVM enthusiasts, developers, and e
 
 ## Event Details
 
-- **Date:** September 13th & 14th
-- **Location:** Hyatt Ziva Rivier Maya, Bahia de Petempich Supermanzana 12 Manzana 31 Lote 14-02, 77580 Puerto Morelos, Q.R., Mexico
+- **Date:** September 12th & 13th 2026
+- **Location:** TBD, Cancún, Mexico
 - **Time:** ALL DAY FUN
 
 ## About JConf Mexico
@@ -36,7 +36,7 @@ We follow a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and incl
 
 ## Stay Connected
 
-- Follow for live updates and announcements: [@JalapenoUnconf](https://twitter.com/jalapenounconf), [@JConfMexico](https://twitter.com/JConfMexico).
+- Follow for live updates and announcements: [@jalapeno-unconf.bsky.social](https://bsky.app/profile/jalapeno-unconf.bsky.social).
 
 ## Contributing
 
